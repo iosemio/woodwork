@@ -5,14 +5,14 @@ image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
 # UI configs
-title: "Semio Woodwork Portfolie"
+title: "Semio - Woodwork Portfolio"
 subtitle: ""
 author: "Semio Technical Arts"
 header:
- title: "Woodwork"
- subtitle: "Subtitle"
+ title: "Woodwork Portfolio"
+ subtitle: "Semio Technical Arts"
 footer:
- name: "Semio Technical Arts"
+ name: ""
  bio: ""
  github: ""
 web_design: ""
